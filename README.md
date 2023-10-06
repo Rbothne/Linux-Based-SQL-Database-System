@@ -3,6 +3,7 @@ RUNNING INSTRUCTIONS:
 1.	Extract the files from rbothne_pa4.zip
 2.	Navigate into the directory holding rbothne_PA4.py from the terminal
 3.	Execute the program manually using the format found in the test file
+   
 The database system utilizes the file directory system of the machine.
 A table is simply a file.
 A database is simply a directory.
