@@ -3,19 +3,31 @@ RUNNING INSTRUCTIONS:
 1.	Extract the files from rbothne_pa4.zip
 2.	Navigate into the directory holding rbothne_PA4.py from the terminal
 3.	Execute the program manually using the format found in the test file
-   
+
 The database system utilizes the file directory system of the machine.
+
 A table is simply a file.
+
 A database is simply a directory.
+
 A table in a database is simply a file in a directory.
+
 If “using” a database, we simply navigate to the directory specified if it exists.
+
 If creating a database we check its existence, if it does not exist, we create a directory.
+
 If creating a table we check its existence, if it does not exist, we create a table.
+
 If altering a table we check its existence, if it does exist, we change file values.
+
 If selecting a table we check its existence, if it exists, we change print its values to the console.
+
 If inserting new data in a table, we simply append the new information to the file.
+
 If deleting a value in a table, we find satisfying rows and remove their contents before sliding them back into a list of all the rows and reprint the file.
+
 If updating a value in a table we find satisfying rows, split them into columns and change the specified contents before sliding them back into a list of all the rows, and reprint the file.
+
 If querying a value in a table we find satisfying rows, split them into columns and print the desired to be printed columns.
 
 Join Operations:
